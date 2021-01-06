@@ -1,0 +1,58 @@
+* {
+    font-weight: bold;
+}
+
+h1 {
+    margin: 100px;
+    text-align: center;
+    font-size: 1.75em;
+}
+
+.box {
+    box-sizing: border-box;
+}
+
+.marginal1 {
+    margin: 15px 7.5px;
+    height: 300px;
+    background-color: #888;
+    border: 1px solid black;
+}
+
+.marginal2 {
+    margin: 15px 0px;
+    height: 300px;
+    background-color: #888;
+    border: 1px solid black;
+}
+
+.title {
+    float: right;
+    top: 0;
+    right: 0;
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 1.25em;
+    border: 1px solid black;
+}
+
+.chicken {
+    background-color: salmon;
+}
+
+.beef {
+    color: #fff;
+    background-color: crimson;
+}
+
+.sushi {
+    background-color: darkgoldenrod;
+}
+
+p {
+    margin-top: 40px;
+    clear: right;
+    padding: 12px;
+}
