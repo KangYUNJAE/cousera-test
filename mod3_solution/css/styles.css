@@ -1,0 +1,37 @@
+.navbar-default {
+    background-color: #bbfabb;
+    color: blueviolet;
+}
+
+.navbar-toggle:focus,
+.navbar-toggle:hover {
+    background-color: rgba(0, 0, 0, 0) !important;
+    border-color: #777;
+}
+
+.icon-bar {
+    background-color: #ddd;
+}
+
+.navbar-nav {
+    background-color: #eee;
+    margin: 0 -15px;
+}
+
+hr {
+    margin: 0 auto;
+    border: 1px solid #777;
+}
+
+.menu-info {
+    background-color: #bbfabb;
+    height: 100%;
+    margin: 20px auto;
+    padding: 15px;
+}
+
+.top {
+    margin: 10px;
+    font-size: 0.8em;
+    color: gray;
+}
